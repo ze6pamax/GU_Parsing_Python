@@ -1,4 +1,6 @@
 import requests
+from pprint import pprint
+import json
 
 main_link = "https://api.github.com/users/ze6pamax/repos"
 response = requests.get(main_link,
@@ -6,8 +8,5 @@ response = requests.get(main_link,
 
 json_res = response.json()
 
-i = 1
-print("Список активных репозиториев:\n")
-for repo in json_res:
-	print(f'{i}. {repo["name"]}')
-	i +=1
+with open('github_repo_list.json','w') as outfile:
+	json.dump(json_res,outfile)
