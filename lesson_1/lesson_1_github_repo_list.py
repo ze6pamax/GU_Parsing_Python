@@ -1,5 +1,4 @@
 import requests
-from pprint import pprint
 
 main_link = "https://api.github.com/users/ze6pamax/repos"
 response = requests.get(main_link,
@@ -7,7 +6,8 @@ response = requests.get(main_link,
 
 json_res = response.json()
 
-print("Список активных репозиториев:")
-for i in json_res:
-	print(i["name"])
-
+i = 1
+print("Список активных репозиториев:\n")
+for repo in json_res:
+	print(f'{i}. {repo["name"]}')
+	i +=1
