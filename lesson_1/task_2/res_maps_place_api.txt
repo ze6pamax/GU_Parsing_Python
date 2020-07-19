@@ -1,0 +1,81 @@
+place_id;name;vicinity;type
+ChIJMcnw_oVRtUYRFA6v2b0UJrE;Sen'or;Lukinskaya Ulitsa, 16, Moscow;store
+ChIJu0Wi-ytStUYR1dWdlcPXfi4;Omega-97;Borovskoye Shosse, 46, Moscow;store
+ChIJrS-PhU5QtUYR3tP0p5KbVK8;Svyaznoy;Sovetskaya Ulitsa, 1Б, Odintsovo;store
+ChIJWaVc30yoykYR0jMt17tBiU8;Furniture House;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJ5YroZNFWtUYR3OlY07ZXlZc;D-Foto;Ulitsa Druzhby, 3, Odintsovo;store
+ChIJl_wj-bSpykYRA3CT3Lkg7uo;Magnit;Parkovaya Ulitsa, 2/3, Aprelevka;store
+ChIJC868LhtYtUYREyImdUKAcTQ;Tri Synochka;Краснознаменск, Krasnoznamensk;store
+ChIJhX4ql4hYtUYR_312MP5w4hU;"V Jeans";Привокзальная площадь, д.5, Golitsyno;store
+ChIJOzZ1FLWpykYRMY6KyI-H90M;SunGuard;Ulitsa Ostrovskogo, 38, Aprelevka;store
+ChIJ____71lWtUYR1qD791r8oSQ;Honda Motor Rus;Moscow;store
+ChIJ-Wt-XAVYtUYRfzwaOjKaRpU;Gornyy Altay Magazin;Краснознаменная ул, 19, Krasnoznamensk;store
+ChIJl_wj-bSpykYRUIIEoXuArUs;Tselitel';Ulitsa Bol'nichnaya, 4, Aprelevka;store
+ChIJVVVVBaapykYRgYPcMQZz6jA;Konset Rus Ooo;Aprelevskiy pereulok, Aprelevka;store
+ChIJVVVVVYBYtUYRSYxIHc2eH9A;Tri Kota Mebel';Zvenigorodskoye Shosse, 7а, Golitsyno;store
+ChIJfWDYjkqoykYRhTZpzTfVntk;Ip Sarenok;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJidS0jZVYtUYRmvCPDEoc5g0;ООО «Максипласт»;Frunzenskaya naberezhnaya, 30 строение 6, Moscow;store
+ChIJr-DI_7ioykYRoj_ZE_-JVVI;FOTOTOCHKA;Sportivnaya Ulitsa, 5, Selyatino;store
+ChIJTb8swb6oykYRo0OWBipU07s;Dixy;Sportivnaya Ulitsa, 2, Selyatino;store
+ChIJnXNQKjS3ykYRPfy9euqhjNI;Magnum Zhalyuzi;Kiyevskoye Shosse, 51-й км, Aprelevka;store
+ChIJl_wj-bSpykYRK1LghV8Pjeg;Eur-med Dentaldepo;Oktyabr'skaya Ulitsa, 9, Наро-Фоминский р-н, г. Апрелевка;store
+ChIJMcnw_oVRtUYRFA6v2b0UJrE;Sen'or;Lukinskaya Ulitsa, 16, Moscow;store
+ChIJu0Wi-ytStUYR1dWdlcPXfi4;Omega-97;Borovskoye Shosse, 46, Moscow;store
+ChIJrS-PhU5QtUYR3tP0p5KbVK8;Svyaznoy;Sovetskaya Ulitsa, 1Б, Odintsovo;store
+ChIJWaVc30yoykYR0jMt17tBiU8;Furniture House;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJ5YroZNFWtUYR3OlY07ZXlZc;D-Foto;Ulitsa Druzhby, 3, Odintsovo;store
+ChIJl_wj-bSpykYRA3CT3Lkg7uo;Magnit;Parkovaya Ulitsa, 2/3, Aprelevka;store
+ChIJC868LhtYtUYREyImdUKAcTQ;Tri Synochka;Краснознаменск, Krasnoznamensk;store
+ChIJhX4ql4hYtUYR_312MP5w4hU;"V Jeans";Привокзальная площадь, д.5, Golitsyno;store
+ChIJOzZ1FLWpykYRMY6KyI-H90M;SunGuard;Ulitsa Ostrovskogo, 38, Aprelevka;store
+ChIJ____71lWtUYR1qD791r8oSQ;Honda Motor Rus;Moscow;store
+ChIJ-Wt-XAVYtUYRfzwaOjKaRpU;Gornyy Altay Magazin;Краснознаменная ул, 19, Krasnoznamensk;store
+ChIJl_wj-bSpykYRUIIEoXuArUs;Tselitel';Ulitsa Bol'nichnaya, 4, Aprelevka;store
+ChIJVVVVBaapykYRgYPcMQZz6jA;Konset Rus Ooo;Aprelevskiy pereulok, Aprelevka;store
+ChIJVVVVVYBYtUYRSYxIHc2eH9A;Tri Kota Mebel';Zvenigorodskoye Shosse, 7а, Golitsyno;store
+ChIJfWDYjkqoykYRhTZpzTfVntk;Ip Sarenok;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJidS0jZVYtUYRmvCPDEoc5g0;ООО «Максипласт»;Frunzenskaya naberezhnaya, 30 строение 6, Moscow;store
+ChIJr-DI_7ioykYRoj_ZE_-JVVI;FOTOTOCHKA;Sportivnaya Ulitsa, 5, Selyatino;store
+ChIJTb8swb6oykYRo0OWBipU07s;Dixy;Sportivnaya Ulitsa, 2, Selyatino;store
+ChIJnXNQKjS3ykYRPfy9euqhjNI;Magnum Zhalyuzi;Kiyevskoye Shosse, 51-й км, Aprelevka;store
+ChIJl_wj-bSpykYRK1LghV8Pjeg;Eur-med Dentaldepo;Oktyabr'skaya Ulitsa, 9, Наро-Фоминский р-н, г. Апрелевка;store
+ChIJMcnw_oVRtUYRFA6v2b0UJrE;Sen'or;Lukinskaya Ulitsa, 16, Moscow;store
+ChIJu0Wi-ytStUYR1dWdlcPXfi4;Omega-97;Borovskoye Shosse, 46, Moscow;store
+ChIJrS-PhU5QtUYR3tP0p5KbVK8;Svyaznoy;Sovetskaya Ulitsa, 1Б, Odintsovo;store
+ChIJWaVc30yoykYR0jMt17tBiU8;Furniture House;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJ5YroZNFWtUYR3OlY07ZXlZc;D-Foto;Ulitsa Druzhby, 3, Odintsovo;store
+ChIJl_wj-bSpykYRA3CT3Lkg7uo;Magnit;Parkovaya Ulitsa, 2/3, Aprelevka;store
+ChIJC868LhtYtUYREyImdUKAcTQ;Tri Synochka;Краснознаменск, Krasnoznamensk;store
+ChIJhX4ql4hYtUYR_312MP5w4hU;"V Jeans";Привокзальная площадь, д.5, Golitsyno;store
+ChIJOzZ1FLWpykYRMY6KyI-H90M;SunGuard;Ulitsa Ostrovskogo, 38, Aprelevka;store
+ChIJ____71lWtUYR1qD791r8oSQ;Honda Motor Rus;Moscow;store
+ChIJ-Wt-XAVYtUYRfzwaOjKaRpU;Gornyy Altay Magazin;Краснознаменная ул, 19, Krasnoznamensk;store
+ChIJl_wj-bSpykYRUIIEoXuArUs;Tselitel';Ulitsa Bol'nichnaya, 4, Aprelevka;store
+ChIJVVVVBaapykYRgYPcMQZz6jA;Konset Rus Ooo;Aprelevskiy pereulok, Aprelevka;store
+ChIJVVVVVYBYtUYRSYxIHc2eH9A;Tri Kota Mebel';Zvenigorodskoye Shosse, 7а, Golitsyno;store
+ChIJfWDYjkqoykYRhTZpzTfVntk;Ip Sarenok;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJidS0jZVYtUYRmvCPDEoc5g0;ООО «Максипласт»;Frunzenskaya naberezhnaya, 30 строение 6, Moscow;store
+ChIJr-DI_7ioykYRoj_ZE_-JVVI;FOTOTOCHKA;Sportivnaya Ulitsa, 5, Selyatino;store
+ChIJTb8swb6oykYRo0OWBipU07s;Dixy;Sportivnaya Ulitsa, 2, Selyatino;store
+ChIJnXNQKjS3ykYRPfy9euqhjNI;Magnum Zhalyuzi;Kiyevskoye Shosse, 51-й км, Aprelevka;store
+ChIJl_wj-bSpykYRK1LghV8Pjeg;Eur-med Dentaldepo;Oktyabr'skaya Ulitsa, 9, Наро-Фоминский р-н, г. Апрелевка;store
+ChIJMcnw_oVRtUYRFA6v2b0UJrE;Sen'or;Lukinskaya Ulitsa, 16, Moscow;store
+ChIJu0Wi-ytStUYR1dWdlcPXfi4;Omega-97;Borovskoye Shosse, 46, Moscow;store
+ChIJrS-PhU5QtUYR3tP0p5KbVK8;Svyaznoy;Sovetskaya Ulitsa, 1Б, Odintsovo;store
+ChIJWaVc30yoykYR0jMt17tBiU8;Furniture House;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJ5YroZNFWtUYR3OlY07ZXlZc;D-Foto;Ulitsa Druzhby, 3, Odintsovo;store
+ChIJl_wj-bSpykYRA3CT3Lkg7uo;Magnit;Parkovaya Ulitsa, 2/3, Aprelevka;store
+ChIJC868LhtYtUYREyImdUKAcTQ;Tri Synochka;Краснознаменск, Krasnoznamensk;store
+ChIJhX4ql4hYtUYR_312MP5w4hU;"V Jeans";Привокзальная площадь, д.5, Golitsyno;store
+ChIJOzZ1FLWpykYRMY6KyI-H90M;SunGuard;Ulitsa Ostrovskogo, 38, Aprelevka;store
+ChIJ____71lWtUYR1qD791r8oSQ;Honda Motor Rus;Moscow;store
+ChIJ-Wt-XAVYtUYRfzwaOjKaRpU;Gornyy Altay Magazin;Краснознаменная ул, 19, Krasnoznamensk;store
+ChIJl_wj-bSpykYRUIIEoXuArUs;Tselitel';Ulitsa Bol'nichnaya, 4, Aprelevka;store
+ChIJVVVVBaapykYRgYPcMQZz6jA;Konset Rus Ooo;Aprelevskiy pereulok, Aprelevka;store
+ChIJVVVVVYBYtUYRSYxIHc2eH9A;Tri Kota Mebel';Zvenigorodskoye Shosse, 7а, Golitsyno;store
+ChIJfWDYjkqoykYRhTZpzTfVntk;Ip Sarenok;Aprelevskaya Ulitsa, 65, Aprelevka;store
+ChIJidS0jZVYtUYRmvCPDEoc5g0;ООО «Максипласт»;Frunzenskaya naberezhnaya, 30 строение 6, Moscow;store
+ChIJr-DI_7ioykYRoj_ZE_-JVVI;FOTOTOCHKA;Sportivnaya Ulitsa, 5, Selyatino;store
+ChIJTb8swb6oykYRo0OWBipU07s;Dixy;Sportivnaya Ulitsa, 2, Selyatino;store
+ChIJnXNQKjS3ykYRPfy9euqhjNI;Magnum Zhalyuzi;Kiyevskoye Shosse, 51-й км, Aprelevka;store
+ChIJl_wj-bSpykYRK1LghV8Pjeg;Eur-med Dentaldepo;Oktyabr'skaya Ulitsa, 9, Наро-Фоминский р-н, г. Апрелевка;store
